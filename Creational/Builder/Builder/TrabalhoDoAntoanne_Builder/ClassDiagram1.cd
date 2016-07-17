@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TrabalhoDoAntoanne_Builder.GordinhoLanches4">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAEAAAAAAAAAAAIAAAAAAAAAAAABAAAAQAAAAAE=</HashCode>
+      <FileName>GordinhoLanches.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoDoAntoanne_Builder.SaudeSempre4">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAEAAAAAAAAAAAIAAAAAAAAAAAABAAAAQAAAAAE=</HashCode>
+      <FileName>SaudeSempre.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoDoAntoanne_Builder.ReiDoCachorro4">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAEAAAAAAAAAAAIAAAAAAAAAAAABAAAAQAAAAAE=</HashCode>
+      <FileName>ReiDoCachorro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoDoAntoanne_Builder.Diretor4">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diretor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoDoAntoanne_Builder.Produto4">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABAAAAAQAAAAFAAAAQAAAAEAAAAAAAAAAAQABAAA=</HashCode>
+      <FileName>Produto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TrabalhoDoAntoanne_Builder.IConstrutorAbstrato4">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAQAAAAAE=</HashCode>
+      <FileName>ConstrutorAbstrato.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

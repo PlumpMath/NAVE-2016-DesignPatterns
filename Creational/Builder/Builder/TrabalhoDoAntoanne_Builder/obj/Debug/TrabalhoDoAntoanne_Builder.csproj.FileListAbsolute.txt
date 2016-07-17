@@ -1,0 +1,6 @@
+c:\users\lea\documents\visual studio 2015\Projects\TrabalhoDoAntoanne_Builder\TrabalhoDoAntoanne_Builder\bin\Debug\TrabalhoDoAntoanne_Builder.exe.config
+c:\users\lea\documents\visual studio 2015\Projects\TrabalhoDoAntoanne_Builder\TrabalhoDoAntoanne_Builder\bin\Debug\TrabalhoDoAntoanne_Builder.exe
+c:\users\lea\documents\visual studio 2015\Projects\TrabalhoDoAntoanne_Builder\TrabalhoDoAntoanne_Builder\bin\Debug\TrabalhoDoAntoanne_Builder.pdb
+c:\users\lea\documents\visual studio 2015\Projects\TrabalhoDoAntoanne_Builder\TrabalhoDoAntoanne_Builder\obj\Debug\TrabalhoDoAntoanne_Builder.csprojResolveAssemblyReference.cache
+c:\users\lea\documents\visual studio 2015\Projects\TrabalhoDoAntoanne_Builder\TrabalhoDoAntoanne_Builder\obj\Debug\TrabalhoDoAntoanne_Builder.exe
+c:\users\lea\documents\visual studio 2015\Projects\TrabalhoDoAntoanne_Builder\TrabalhoDoAntoanne_Builder\obj\Debug\TrabalhoDoAntoanne_Builder.pdb
