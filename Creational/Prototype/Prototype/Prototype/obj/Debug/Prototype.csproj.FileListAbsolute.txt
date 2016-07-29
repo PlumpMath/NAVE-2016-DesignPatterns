@@ -1,6 +1,0 @@
-C:\Users\joao.alves.NAVE0\Prototype\Prototype\Prototype\bin\Debug\Prototype.exe.config
-C:\Users\joao.alves.NAVE0\Prototype\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
-C:\Users\joao.alves.NAVE0\Prototype\Prototype\Prototype\bin\Debug\Prototype.exe
-C:\Users\joao.alves.NAVE0\Prototype\Prototype\Prototype\bin\Debug\Prototype.pdb
-C:\Users\joao.alves.NAVE0\Prototype\Prototype\Prototype\obj\Debug\Prototype.exe
-C:\Users\joao.alves.NAVE0\Prototype\Prototype\Prototype\obj\Debug\Prototype.pdb
